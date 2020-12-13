@@ -1,0 +1,6 @@
+name: InventoryPro
+main: iR.yzplug.NF.Main
+version: 1.0
+api: 1.0.11
+author: YazdanPlug
+description: Plugin InventoryPro(Dont Move Item In Inventory - Dont Get Drop Items - Dont get Arrows Shouted)
